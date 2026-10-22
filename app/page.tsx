@@ -1,4 +1,4 @@
-import { ArrowDownRight, ArrowRight, ArrowUpRight, BrainCircuit, BriefcaseBusiness, CheckCircle2, Code2, Cpu, ExternalLink, Github, GraduationCap, Mail, MessageCircle, Server, ShieldCheck, Sparkles, TerminalSquare, Workflow, Zap } from "lucide-react";
+import { ArrowDownRight, ArrowUpRight, BrainCircuit, BriefcaseBusiness, CheckCircle2, Code2, Cpu, ExternalLink, Github, Mail, Server, ShieldCheck, Workflow, Zap } from "lucide-react";
 
 const projects = [
   { id: "01", name: "TamboEnergy SolarAI", type: "ENERGY SYSTEMS", summary: "A solar operations platform concept bringing telemetry, system diagnostics, alerts, maintenance records, and analytics into one workflow.", stack: ["FastAPI", "React / Vite", "SQLAlchemy", "JWT", "ML prototype"], repo: "https://github.com/emmanueldaniel251994-sketch/TamboEnergy-SolarAI", note: "Telemetry and fault-classification capabilities include simulated data and prototype logic; not a certified safety controller." },
