@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Daniel Emmanuel | AI Engineer & Cloud Developer",
-  description: "Portfolio of Daniel Emmanuel — building practical AI systems, cloud-native applications, and developer tools.",
-  keywords: ["AI Engineering", "Machine Learning", "Python", "PyTorch", "Cloud Engineering", "DevOps", "Full Stack"],
-  openGraph: { title: "Daniel Emmanuel | AI Engineer", description: "Practical AI, cloud systems, and software engineering.", type: "website" },
+  title: "Akintade Daniel Emmanuel | AI Engineer & Software Developer",
+  description: "Portfolio of Akintade Daniel Emmanuel — building practical AI systems, software applications, and developer tools.",
+  keywords: ["AI Engineering", "Machine Learning", "Python", "PyTorch", "Full Stack"],
+  openGraph: { title: "Akintade Daniel Emmanuel | AI Engineer", description: "Practical AI, machine learning, and software engineering.", type: "website" },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
