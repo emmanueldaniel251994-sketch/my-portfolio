@@ -1,6 +1,6 @@
-# AI Engineering Portfolio
+# Akintade Daniel Emmanuel — AI & Software Portfolio
 
-A responsive, dark-first portfolio built with Next.js, TypeScript, Tailwind CSS v4, and Lucide icons. It presents selected AI, software, and cloud projects with careful notes about prototypes and simulated data.
+A responsive, dark-first portfolio built with Next.js, TypeScript, Tailwind CSS v4, and Lucide icons. It presents selected AI and software projects with careful notes about prototypes and simulated data.
 
 ## Run locally
 
@@ -30,7 +30,7 @@ npm run build
 
 ## Before sharing publicly
 
-- Confirm the displayed name, contact email, and profile links are correct.
+- Confirm the contact email and profile links are correct.
 - Add your own portrait and project screenshots only after you have suitable assets; do not use fabricated screenshots as proof of working features.
 - Verify each repository and demo URL is still public and working.
 - Replace the generic LinkedIn link in `app/page.tsx` with your profile URL.
